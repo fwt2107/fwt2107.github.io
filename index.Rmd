@@ -1,17 +1,9 @@
 ---
-title: "Holy cow!"
+title: "Felix's personal website"
 ---
 
-### I have a webpage!
+### Welcome
+Welcome to Felix's personal website. 
 
-And I can put all kinds of stuff on it!
-
-I can add lots of stuff to this
-
-### Add some links
-I like [google](https://www.google.com/)
-
-I can also link directly to [my about page](about.html)
-
-### This is public health
-<img src = "images/No_This_Is_Patrick.jpg" style = "width:75%">
+This is a website I built for P8105 Data Science, a course offered at Columbia
+University, Mailman School of Public Health

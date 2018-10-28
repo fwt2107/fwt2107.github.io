@@ -6,8 +6,10 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:fwt2107@cumc.columbia.edu
+      href: mailto:<fwt2107@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/fwt2107/
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/felix-tran-84487266/
 output:
   html_document
