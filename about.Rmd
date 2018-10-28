@@ -2,8 +2,25 @@
 title: "About"
 ---
 
-### About this site
+# About me
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+I am an MPH student at Columbia University, Mailman School of Public Health. I
+am currently taking this awesome class called Data Science and hope to use what
+I learned from this class in my future career.
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+
+### Academic experience
+Unversity of California, San Diego (2012 - 2016) - B.S. in Public Health, 
+Psychology minor
+
+Columbia University, Mailman School of Public Health (2017 - ) - MPH, Department
+of Epidemiology
+
+
+### Professional experience
+New York City Department of Health and Mental Hygiene (June 2017 - ) - Graduate
+intern
+
+
+### Skills
+R, SAS
